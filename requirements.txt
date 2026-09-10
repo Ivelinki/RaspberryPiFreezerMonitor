@@ -1,0 +1,5 @@
+adafruit-blinka
+adafruit-circuitpython-sht31d
+RPi.GPIO
+RPLCD
+smbus2
